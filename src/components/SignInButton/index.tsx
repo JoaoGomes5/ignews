@@ -7,6 +7,16 @@ export  default function SignInButton() {
   const isUserLoggedIn = false;
 
   return isUserLoggedIn ? (
+
+
+
+
+
+
+
+
+
+    
     <button type="button" className={styles.signInButton}>
       <FaGithub color="#A4D361" />
       João Gomes
