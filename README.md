@@ -17,7 +17,7 @@ yarn install
 ## Usage
 
 ```sh
-yarn intall
+yarn install
 ```
 
 ```sh
